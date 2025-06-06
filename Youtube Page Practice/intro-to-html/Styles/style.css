@@ -1,0 +1,84 @@
+p {
+    font-family: Roboto;
+    margin-top: 0;
+    margin-bottom: 0 ;
+  }
+
+  .course-title {
+    font-weight: bold;
+    font-size: 21px;
+    margin-bottom: 5px;
+  }
+
+  .course-subtitle{
+    font-size: 16px;
+    color: grey;
+    margin-bottom: 25px;
+  }
+
+  .course-description {
+    font-size: 15px;
+    width: 280px;
+    margin-bottom: 20px;
+  }
+
+  .button {
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    border-style: none;
+    padding-left: 17px;
+    padding-top: 8px;
+    padding-right: 17px;
+    padding-bottom: 8px;
+    cursor: pointer;
+    margin-bottom: 100px;
+  }
+
+  .mac-tag {
+    color: red;
+    font-size: 13px;
+    width: 480px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 5px;
+  }
+
+  .mac-name {
+    font-size: 20px;
+    width: 480px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(61, 61, 61);
+  }
+
+  .mac-slogan {
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+    width: 480px;
+    margin-bottom: 10px;
+  }
+
+  .mac-price {
+    color: rgb(104, 104, 104);
+    font-size: 13px;
+    text-align: center;
+    font-weight: 800;
+    width: 480px;
+    margin-bottom: 12px;
+  }
+
+  .buy-button {
+    color: white;
+    background-color: rgb(40, 114, 197);
+    border-radius: 50px;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-style: none;
+    text-align: center;
+    margin-left: 215px;
+    cursor: pointer;
+  }
